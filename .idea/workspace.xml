@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d35169-d8c9-4cb7-af86-a44f94bd9c95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/includes/navigationMenuphp.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/includes/navigationMenu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -43,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1759763174090</updated>
       <workItem from="1759763174092" duration="7000" />
-      <workItem from="1759763234888" duration="601000" />
+      <workItem from="1759763234888" duration="898000" />
+      <workItem from="1759768158059" duration="2473000" />
     </task>
     <servers />
   </component>
