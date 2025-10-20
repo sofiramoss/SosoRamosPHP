@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d35169-d8c9-4cb7-af86-a44f94bd9c95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/variaveis.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/cadastro.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/cadastro.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1759773957955" duration="1981000" />
       <workItem from="1760020555413" duration="2701000" />
       <workItem from="1760027242091" duration="408000" />
-      <workItem from="1760977622547" duration="2605000" />
+      <workItem from="1760977622547" duration="5721000" />
     </task>
     <task id="LOCAL-00001" summary="bosta">
       <option name="closed" value="true" />
