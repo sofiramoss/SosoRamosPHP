@@ -2,6 +2,7 @@
 include '../assets/includes/doctype.php';
 ?>
 <title>Formulário de Cadastro</title>
+<link rel = "stylesheet" href="../assets/style/style_header.css">
 </head>
 <body>
 <?php
